@@ -286,3 +286,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the mental health and wellbeing of Indian college students**
 "# off" 
+#   o f f - b y - o n e - e r r o r  
+ 
