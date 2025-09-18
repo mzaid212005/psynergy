@@ -1,0 +1,11 @@
+{
+  "/api/analytics/route": "app/api/analytics/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/doctor/patients/page": "app/doctor/patients/page.js",
+  "/doctor-new/page": "app/doctor-new/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/analytics/page": "app/admin/analytics/page.js",
+  "/admin/moods/page": "app/admin/moods/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/page": "app/page.js"
+}
